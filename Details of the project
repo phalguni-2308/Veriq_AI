@@ -1,0 +1,143 @@
+# 🛡️ VERIQ — Verify Before You Trust
+> AI-Powered Digital Decision Intelligence Platform
+
+## 🌍 Live Demo
+
+🔗 Website: veriqtrust.netlify.app
+
+# 🚀 Overview
+
+VERIQ (Verify Before You Trust) is an AI-powered Digital Decision Intelligence Platform that helps users verify suspicious digital interactions before taking action.
+
+Modern cyberattacks no longer target systems alone—they manipulate human trust through phishing, fake bank messages, digital arrest scams, QR fraud, AI-generated voices, investment scams, and cryptocurrency attacks.
+
+VERIQ combines Artificial Intelligence, OCR, Voice AI, and Automation to investigate suspicious messages, websites, payment requests, screenshots, and voice conversations. Instead of simply identifying scams, VERIQ explains why an interaction is risky, predicts possible consequences, and provides personalized safety guidance.
+
+# ✨ Features
+
+- 🤖 AI Threat Analysis
+- 🎙️ VERA Voice Assistant (ElevenLabs)
+- 📝 OCR Screenshot Analysis
+- 🌐 URL Verification
+- 📧 Email Analysis
+- 💬 WhatsApp/SMS Analysis
+- 📱 QR Code Verification
+- ⚠️ Risk Score Generation
+- 🧬 Manipulation DNA Visualization
+- 📊 Threat Dashboard
+- 🛡️ Safe Action Plan
+- 📄 Incident Report Generator
+- 📚 Investigation History
+
+
+# 🧠 How VERIQ Works
+
+User Uploads Content
+
+↓
+
+OCR (if image)
+
+↓
+
+Gemini AI Analysis
+
+↓
+
+Threat Detection
+
+↓
+
+Risk Score
+
+↓
+
+VERA Voice Explanation
+
+↓
+
+Safe Action Plan
+
+↓
+
+Incident Report
+
+
+# 🏗️ Architecture
+
+                   User
+
+                     │
+
+                     ▼
+
+          React + Next.js Frontend
+
+                     │
+
+      ┌──────────────┼──────────────┐
+
+      ▼              ▼              ▼
+
+ OCR Engine      Gemini AI     ElevenLabs
+
+      │              │              │
+
+      └──────────────┼──────────────┘
+
+                     ▼
+
+              Risk Analysis Engine
+
+                     ▼
+
+              Report Generator
+
+                     ▼
+
+                 Supabase DB
+# 🎙️ VERA
+
+VERA (VERIQ Emergency Response Assistant) is an AI voice assistant powered by ElevenLabs.
+
+VERA helps users by:
+
+- Understanding suspicious situations
+- Asking intelligent follow-up questions
+- Explaining cyber threats
+- Recommending safe actions
+- Generating investigation summaries
+
+
+# 📱 Demo
+
+Users can test using:
+
+- Fake Bank SMS
+- Digital Arrest Scam
+- Investment Scam
+- Job Scam
+- QR Scam
+- Fake Website
+- Crypto Scam
+
+# 🚀 Future Scope
+
+- Browser Extension
+- Mobile App
+- Live Call Guardian
+- Web3 Wallet Scanner
+- Deepfake Voice Detection
+- Family Safety Alerts
+- Enterprise Dashboard
+- Banking API Integration
+
+
+
+# 👥 Team
+
+**Team Name:** DualCore
+Team Members:
+1. Phalguni Maharana 
+2. Rohan Kumar
+
